@@ -1,0 +1,15 @@
+{
+    "$schema": "../../Data.Peek.Website/umbraco-package-schema.json",
+    "id": "data.peek",
+    "name": "Data.Peek",
+    "allowPackageTelemetry": true,
+    "version": "1.0.0",
+    "extensions": [
+        {
+          "name": "Data.Peek EntryPoint",
+          "alias": "data.peek.entrypoint",
+          "type": "backofficeEntryPoint",
+          "js": "/app_plugins/Data.Peek/data.peek.js"
+        }
+      ]
+}

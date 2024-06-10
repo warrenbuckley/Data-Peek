@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Peek.Website", "Data.Peek.Website\Data.Peek.Website.csproj", "{AAEEADF4-E156-431D-A99C-B3558DD51F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Peek", "Data.Peek\Data.Peek.csproj", "{98F0DBB8-B32F-4236-9F19-A92BD677C953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEEADF4-E156-431D-A99C-B3558DD51F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEEADF4-E156-431D-A99C-B3558DD51F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEEADF4-E156-431D-A99C-B3558DD51F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEEADF4-E156-431D-A99C-B3558DD51F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F0DBB8-B32F-4236-9F19-A92BD677C953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F0DBB8-B32F-4236-9F19-A92BD677C953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F0DBB8-B32F-4236-9F19-A92BD677C953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F0DBB8-B32F-4236-9F19-A92BD677C953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
